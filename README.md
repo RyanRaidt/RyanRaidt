@@ -16,7 +16,8 @@ After graduating from Fullstack Academy, I dove into real-world development thro
 
 ### [Task Manager Pro](https://ryan-task-manger-pro.netlify.app/)
 Task management app with secure authentication, built with React, Express, and MongoDB.  
-**GitHub:** [Repo](https://github.com/RyanRaidt/task-manger-pro)
+**Live Site:** [View Site](https://ryan-task-manger-pro.netlify.app)  
+
 
 ### [Job Tracker](https://github.com/RyanRaidt/job-tracker)
 Track and manage job applications with JWT auth, PostgreSQL, and Chakra UI.  
