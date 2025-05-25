@@ -10,7 +10,7 @@ After graduating from Fullstack Academy, I dove into real-world development thro
 **Frontend:** React, React Router, Chakra UI, Context API  
 **Backend:** Node.js, Express, Prisma, JWT Authentication  
 **Databases:** PostgreSQL, MongoDB, Supabase  
-**Dev Tools:** Git, Render, Netlify, Vercel, Cursor (AI-powered dev tool)
+**Dev Tools:** Git, Render, Netlify, Vercel, 
 
 ## 🚀 Featured Projects
 
