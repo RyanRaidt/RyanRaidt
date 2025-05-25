@@ -21,11 +21,11 @@ Task management app with secure authentication, built with React, Express, and M
 
 ### [Job Tracker](https://github.com/RyanRaidt/job-tracker)
 Track and manage job applications with JWT auth, PostgreSQL, and Chakra UI.  
-**Live Demo:** [View Site](https://your-job-tracker-link.netlify.app)
+**Live Demo:** [View Site](https://ryan-job-trackers.netlify.app/)
 
 ### [Recipe Round Table](https://github.com/RyanRaidt/recipe-sharing)
 A community recipe-sharing platform using React, Node.js, and Supabase.  
-**Live Demo:** [View Site](https://your-recipe-site-link.netlify.app)
+**Live Demo:** [View Site](https://recipe-round-table-frontend.onrender.com/)
 
 ## ✨ What I'm Working On
 
